@@ -16,10 +16,10 @@ function MyApp({ Component, pageProps }) {
           name="viewport"
           content="width=device-width, initial-scale=1,shrink-to-fit=no"
         />
-        <meta name="Bilal Mansuri" content="Frontend developer, React Developer, Javascript Developer" />
-        <meta name="Md Bilal Mansuri" content="Frontend developer, React Developer, Javascript Developer" />
-        <meta name="Bilal" content="portfolio, javascript, developer" />
-        <title>Bilal Mansuri</title>
+        <meta name="Anas Khan" content="Frontend developer, React Developer, Javascript Developer" />
+        <meta name="Md Anas Khan" content="Frontend developer, React Developer, Javascript Developer" />
+        <meta name="Anas" content="portfolio, javascript, developer" />
+        <title>Anas Khan</title>
       </Head>
       <AnimatedCursor
         innerSize={10}

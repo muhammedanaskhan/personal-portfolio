@@ -49,7 +49,7 @@ function OtherProjects() {
             <div className={`${classes.projects_wrapper} section_content`}>
                 {projects.map(project => <ProjectBox key={project.github} title={project.name} description={project.description} techItems={project.techItems} github={project.github} live={project.live} />)}
                 < div className={classes.more} >
-                    <a href="https://github.com/bilal-23?tab=repositories" target="_blank" rel="noopener noreferrer"><Button> More Projects</Button></a>
+                    <a href="https://github.com/muhammedanaskhan?tab=repositories" target="_blank" rel="noopener noreferrer"><Button> More Projects</Button></a>
                 </div>
             </div>
         </Section >

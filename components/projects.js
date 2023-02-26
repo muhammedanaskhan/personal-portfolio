@@ -4,22 +4,22 @@ import Section from './section';
 function Projects() {
     const projects = [
         {
-            name: "Neuro Shop",
-            tech: "Next.js, Mongodb, CSS",
-            github: "https://github.com/bilal-23/neuro-shop",
-            live: "https://neuro-shop.vercel.app/"
+            name: "Movie App",
+            tech: "React.js, TMDB API, Firebase, CSS",
+            github: "https://github.com/muhammedanaskhan/react-movie",
+            live: "https://react-movie-tau-ten.vercel.app/"
         },
         {
-            name: "Netflix Clone",
-            tech: "React, TMDB API, SCSS",
-            github: "https://github.com/bilal-23/netflix-clone",
-            live: "https://netflixclone23.netlify.app/"
+            name: "Cryptobase - Dashboard App",
+            tech: "React, ANT DESIGN, Chart Js",
+            github: "https://github.com/muhammedanaskhan/Cryptobase",
+            live: "https://cryptobase-one.vercel.app/"
         },
         {
-            name: "Twitter Clone",
-            tech: "React, Firebase, SCSS",
-            github: "https://github.com/bilal-23/twitter-clone",
-            live: "https://twitterclone23.netlify.app/"
+            name: "ShopX - Ecommerce site",
+            tech: "React, ContextAPI, Stripe",
+            github: "https://github.com/muhammedanaskhan/shopx",
+            live: "http://shopx-one.vercel.app/"
         },
     ]
     return (
